@@ -1,0 +1,11 @@
+{
+  "name": "gra-frontend",
+  "version": "1.0.0",
+  "description": "Frontend dla gry Głuchy Telefon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
